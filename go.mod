@@ -1,4 +1,4 @@
-module skiflib-proto
+module github.com/SkifAlef/skiflib-proto
 
 go 1.22.2
 
